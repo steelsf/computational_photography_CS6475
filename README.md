@@ -1,1 +1,1 @@
-# homework
+# Computational Photography Projects

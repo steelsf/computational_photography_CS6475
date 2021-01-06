@@ -1,4 +1,4 @@
-## Pyramid Blending
+## Pyramid Blending ##
 WITHOUT using pre-made functions (only using numpy and scipy), this function performs a pyramid blend.
   -It takes the "white" and "black" images and a "mask" and blends them.
   -The belending is performed a different frequency levels (laplace blending) which you can think of as blending the rough patterns, middle pattern, and then find patterns.

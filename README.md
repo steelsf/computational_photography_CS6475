@@ -1,8 +1,8 @@
 # Computational Photography Projects
 
 (without using prebuilt function that exist to do these tasks automatically)
-\n1) Pyramid blending
-\n2) Video Textures 
-\n3) Panorama 
-\n4) HDR Images
-\n5) Object removal
+  1) Pyramid blending
+  2) Video Textures 
+  3) Panorama 
+  4) HDR Images
+  5) Object removal

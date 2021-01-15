@@ -14,6 +14,7 @@ See the following papers, available on T-square under references:
 Notes
 -----
     Created WITHOUT using cv2.pyrUp or cv2.pyrDown (only numpy and scipy)
+    Please do not copy this code for the use of completing assignments at Georgia Tech.
 
 """
 import numpy as np

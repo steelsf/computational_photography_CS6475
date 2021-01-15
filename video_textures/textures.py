@@ -1,5 +1,6 @@
 """ Video Textures
-
+    NOTE:
+    Please do not copy this code for the use of completing assignments at Georgia Tech.
 """
 import numpy as np
 import scipy as sp
